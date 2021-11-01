@@ -7,6 +7,12 @@ public class FirstProg {
 	
 	
 	System.out.println("Hello Maven");
+	
+
+	System.out.println("Git COommands practice ");
+	
+
+	System.out.println("enjoying git commands ");
 
 	}
 
