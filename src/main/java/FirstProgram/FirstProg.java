@@ -13,7 +13,15 @@ public class FirstProg {
 	
 
 	System.out.println("enjoying git commands ");
+	
+	
+	System.out.println("Want to demo ::  git diff ");
 
+	int x=50;
+	int y=30;
+	
+	System.out.println(x+y);
+	
 	}
 
 }
